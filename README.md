@@ -19,7 +19,7 @@ Visit the Mars Facts webpage [here](https://galaxyfacts-mars.com) and used Panda
 
 ### Mars Hemispheres
 
-* Visited the astrogeology site [here](https://marshemispheres.com/) to obtain high resolution images for each of Mar's hemispheres.
+Visited the astrogeology site [here](https://marshemispheres.com/) to obtain high resolution images for each of Mar's hemispheres.
 
 
 
